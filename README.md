@@ -7,11 +7,11 @@ hear:
     - pong
     - valor uf
     - google <concepto>
-    - le fue mal a nelson en la votación para contituyente?
 
 respond:
     - me <pregunta>?
     - qué es <concepto-devops>?
-    - enviar a <canal> <texto que se desea enviar>
+    - enviar a <canal> <mensaje>
     - quién es el <rol> de la célula?
     - qué rol tiene <nombre>?
+    - le fue mal a nelson en la votación para contituyente?
