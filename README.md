@@ -1,4 +1,5 @@
 hear:
+
     - hola
     - qué hora es?
     - cuanto es <int> + <int>?
@@ -9,6 +10,7 @@ hear:
     - google <concepto>
 
 respond:
+
     - me <pregunta>?
     - qué es <concepto-devops>?
     - enviar a <canal> <mensaje>
